@@ -1,4 +1,4 @@
-class Bank:
+class TestClass1:
     name = "Hind Ror"
     dob = 30
     def withdraw(self):
